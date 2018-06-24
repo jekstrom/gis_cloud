@@ -1,1 +1,5 @@
 *.publishsettings
+*.tfstate
+*.backup
+.terraform/
+plan
